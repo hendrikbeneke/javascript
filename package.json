@@ -1,0 +1,28 @@
+{
+  "name": "hendrikbeneke-javascript",
+  "version": "0.0.1",
+  "description": "hendrikbeneke's JavaScript code style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hendrikbeneke/javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "style guide",
+    "code style",
+    "es6",
+    "lint",
+    "react",
+    "jsx"
+  ],
+  "author": "Hendrik Beneke <hendrik.beneke@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hendrikbeneke/javascript/issues"
+  },
+  "homepage": "https://github.com/hendrikbeneke/javascript#readme"
+}
