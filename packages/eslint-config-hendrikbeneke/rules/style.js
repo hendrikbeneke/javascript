@@ -137,7 +137,7 @@ module.exports = {
     'no-trailing-spaces': 2,
 
     // disallow dangling underscores in identifiers
-    'no-underscore-dangle': [2, { 'allowAfterThis': false }],
+    'no-underscore-dangle': [2, { 'allow': ['_id'], 'allowAfterThis': false }],
 
     // disallow the use of Boolean literals in conditional expressions
     // also, prefer `a || b` over `a ? a : b`
